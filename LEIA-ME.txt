@@ -1,0 +1,11 @@
+NOVO HINÁRIO ADVENTISTA - PWA (601 hinos, funciona offline)
+
+1) Envie TODOS os arquivos desta pasta para uma hospedagem HTTPS (Vercel, Netlify, GitHub Pages, Cloudflare Pages).
+   Mantenha a estrutura: index.html, manifest.webmanifest, sw.js, hinos.json e a pasta icons/.
+2) Abra o endereço no celular, COM internet, e aguarde aparecer "Hinário salvo para uso offline".
+3) Toque no botão ⬇ do topo (ou menu ⋮ > Instalar app). No iPhone: Compartilhar > Adicionar à Tela de Início.
+
+Se já tinha instalado uma versão antiga e não atualiza / não deixa instalar:
+ - Desinstale o app antigo da tela inicial.
+ - No Chrome: ⋮ > Configurações > Configurações do site > Armazenamento (ou Informações do site) > Limpar dados deste site.
+ - Abra o endereço de novo e instale.
